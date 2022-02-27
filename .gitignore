@@ -150,3 +150,5 @@ Todo/.vscode/tasks.json
 /PaymentContext/.vs/PaymentContext
 badCodeToRefactor/.vscode/launch.json
 badCodeToRefactor/.vscode/tasks.json
+newRefactoredCode/.vscode/launch.json
+newRefactoredCode/.vscode/tasks.json
