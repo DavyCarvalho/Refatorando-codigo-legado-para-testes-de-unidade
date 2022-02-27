@@ -89,6 +89,7 @@ csx/
 AppPackages/
 
 # Others
+7182/*
 sql/
 *.Cache
 ClientBin/
